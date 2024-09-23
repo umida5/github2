@@ -13,8 +13,9 @@ Git nima uchun ishlatiladi?
   - loyihaning kodlarga kim o'zgarish kiritganini tekshirib turadi
   - loyihalarni repository lar orqali boshqarib turadi
   - loyihalarni clone qilib beradi
-  - koddagi o'zgaruvchilarni repository ga saqlaydi 
-Git komandalari
+  - koddagi o'zgaruvchilarni repository ga saqlaydi
+    
+Git komandalari:
   - git add . (hamma fiellarni birdaniga gitga qo'shadi)
   - git add <ffile name> (gitga ko'rsatilgan faylni qo'shadi)
   - git commit -m "comment" (koddagi o'zgarishlarni komentariya bilan commit qilib qoyadi)
